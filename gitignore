@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local data (do not commit large datasets)
+*.csv
